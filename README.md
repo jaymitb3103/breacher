@@ -54,6 +54,3 @@ Trust is critical in security tools. Here is how BreachRadar protects your data:
     ```bash
     streamlit run app.py
     ```
-
----
-*Created by [Your Name] - [Link to your LinkedIn]*
